@@ -1,0 +1,30 @@
+introduction:
+
+Online Shopping is a lifestyle, e-commerce web applications,
+which provides various electronic and lifestyle products. This
+project allows viewing various products available enables
+registered users to purchase desired products instantly using
+now Cash on Delivery payment system can place an order by
+using option. This project provides easy access to
+Administrators and Managers to view orders placed using Pay
+Later options.
+
+Benefits to Online Shopping:
+Usability and easy access
+ Better deals and savings rewards
+Many retail stores offer promotions
+ save time
+ Larger stock to choose from
+Product reviews
+ Comparison shopping
+
+POPULAR ONLINE SHOPPING SITES:
+Walmart
+Target
+Etsy
+Dell.com
+Best Buy
+JC Penny
+QVC
+EBAY
+
